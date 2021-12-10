@@ -23,6 +23,7 @@ body *{
 
 .photo{
     padding-top: 1.5rem;
+    width: 100%;
 }
 h1{
     font-family: Playfair Display;
